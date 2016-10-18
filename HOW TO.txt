@@ -1,0 +1,15 @@
+wifi nome:
+dipmind
+wifi password:
+dipmind2016
+
+pagina web:
+http://localhost:3000
+user:
+admin
+password:
+admin
+
+ip ipad:
+192.168.0.99
+(purchè collegato a d-link router nero)
